@@ -1,6 +1,6 @@
 import NikhilResume from "../data/NikhilPolepalliResume.pdf";
 import s from "./style.module.css";
-import Nikhil from "../images/nikhil.jpg";
+import Nikhil from "../images/nikhil1.JPG";
 const AboutMe = () => {
   return (
     <section className="py-5 sm:py-10 mt-5 sm:mt-10">
@@ -13,7 +13,7 @@ const AboutMe = () => {
       <div className={s.row}>
         <div className={s.col} style={{ width: "50%" }}>
           <div>
-            <p style={{ paddingTop: 80, paddingRight: 50 }}>
+            <p style={{ paddingTop: 130, paddingRight: 50 }}>
               I am a 21 year old software engineer currently attending
               Vanderbilt University in Nashville, TN. I was born in Lousville,
               KY and am a political enthusiast, spikeball player, and a

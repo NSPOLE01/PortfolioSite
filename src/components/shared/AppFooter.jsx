@@ -39,7 +39,7 @@ const AppFooter = () => {
             ))}
           </ul>
           <p style={{ paddingTop: "2%" }}>
-            Contact me @nikhil.s.polepalli@gmail.com or at (502)424-7440
+            Contact me at nikhil.s.polepalli@gmail.com or at (502)424-7440
           </p>
         </div>
       </div>
