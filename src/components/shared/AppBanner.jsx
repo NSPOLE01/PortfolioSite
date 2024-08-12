@@ -10,7 +10,7 @@ const AppBanner = () => {
         </div>
 
         <div className="font-general-medium mt-4 text-lg md:text-xl lg:text-2xl xl:text-3xl text-center sm:text-left leading-normal text-gray-500 dark:text-gray-200">
-          A Computer Science Enthusiast and Senior at Vanderbilt University
+          A Computer Science Enthusiast and Software Engineer at Capital One
         </div>
       </div>
 

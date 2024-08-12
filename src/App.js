@@ -12,7 +12,9 @@ function App() {
     <Router>
       <div className=" bg-secondary-light dark:bg-primary-dark transition duration-300">
         <div className="container mx-auto">
-          <AppBanner></AppBanner>
+          <div style={{ marginTop: "10vh" }}>
+            <AppBanner></AppBanner>
+          </div>
 
           <ProjectsProvider>
             <ProjectsGrid></ProjectsGrid>
