@@ -1,4 +1,4 @@
-import NikhilResume from "../data/NikhilPolepalliResume.pdf";
+import NikhilResume from "../data/Nikhil_Polepalli_Software_Engineer.pdf";
 import s from "./style.module.css";
 import Nikhil from "../images/nikhil1.JPG";
 const AboutMe = () => {
