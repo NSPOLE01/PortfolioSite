@@ -11,7 +11,7 @@ const ProjectSingle = ({ title, category, image, github }) => {
         delay: 0.15,
       }}
     >
-      <a href={github} target="_blank">
+      <a href={github} target="_blank" rel="noreferrer">
         <div className="rounded-xl shadow-lg hover:shadow-xl cursor-pointer mb-10 sm:mb-0 bg-secondary-light dark:bg-ternary-dark">
           <div>
             <img

@@ -62,7 +62,7 @@ const AboutMe = () => {
         >
           <p>
             Alternative text
-            <a href={NikhilResume}></a>
+            <a href={NikhilResume}>Download Resume</a>
           </p>
         </object>
       </div>
