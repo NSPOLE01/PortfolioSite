@@ -12,7 +12,7 @@ const ProjectSingle = ({ title, category, image, github }) => {
         delay: 0.15,
       }}
     >
-      <a href={github} target="_blank" rel="noreferrer" className="block h-full">
+      <a href={github || undefined} target={github ? "_blank" : undefined} rel={github ? "noreferrer" : undefined} className="block h-full">
         <div className="rounded-xl shadow-lg hover:shadow-xl cursor-pointer mb-10 sm:mb-0 bg-secondary-light dark:bg-ternary-dark h-full flex flex-col">
           <div className="flex-shrink-0">
             <img
