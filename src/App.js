@@ -3,7 +3,7 @@ import AppFooter from "./components/shared/AppFooter";
 import AppBanner from "./components/shared/AppBanner";
 import { ProjectsProvider } from "./context/ProjectsContext";
 import ProjectsGrid from "./components/projects/ProjectsGrid";
-import AboutMe from "./context/AboutMe";
+import TechStack from "./components/TechStack";
 
 import "./css/App.css";
 
@@ -20,7 +20,7 @@ function App() {
             <ProjectsGrid></ProjectsGrid>
           </ProjectsProvider>
 
-          <AboutMe />
+          <TechStack />
         </div>
 
         <AppFooter />
