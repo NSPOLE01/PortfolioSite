@@ -18,7 +18,7 @@ export const projectsData = [
     title: "Polymarket",
     category: "Follow the top traders with ease",
     img: polymarketImg,
-    github: "https://github.com/NSPOLE01/Polymarket",
+    github: "https://polymarket-five-sand.vercel.app",
   },
   {
     id: 2,
